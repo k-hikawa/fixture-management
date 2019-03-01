@@ -1,0 +1,22 @@
+.TagList_root {
+  position: relative;
+  padding-top: 30px;
+}
+
+.TagList_header {
+  position: relative;
+  width: 100%;
+}
+
+.TagList_header span {
+  font-size: 17px;
+  text-decoration: underline;
+}
+
+.TagList_body {
+  position: relative;
+  display: flex;
+  width: 100%;
+  padding: 10px 0 0 0;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,16 @@
+.ItemList_root {
+    position: relative;
+    padding: 30px 0;
+}
+
+.ItemList_title {
+    margin-top: 0;
+    text-decoration: underline;
+}
+
+.ItemList_content {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+}

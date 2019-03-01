@@ -1,0 +1,13 @@
+html {
+  width: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  position: absolute;
+  width: 100%;
+}
