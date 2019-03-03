@@ -1,20 +1,7 @@
 # nkmr研 備品管理システム
 
 情報検索特論課題だけど、売り込んで実際に運用していく可能性があるのでこっちで作ることにします。
-
-## Setup Guide
-
-### Node package manager
-
-`npm i -g yarn` で yarn をグローバルにインストールしてください。
-
-```
-% yarn install
-```
-
-yarn install で `packages` 内の node_modules も同時にインストールされます。
-
-ローカル環境で開発するときは `yarn start` でサーバを立ち上げて実行できます。
+APIの部分だけ
 
 ## Create Branch
 
